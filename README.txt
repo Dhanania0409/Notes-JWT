@@ -11,10 +11,10 @@ Features:
 Technologies
 
 This project is built using:
-- **Backend**: Node.js with Express
-- **Database**: MongoDB
-- **Frontend**: HTML, CSS, and JavaScript (with Axios for API calls)
-- **Authentication**: JWT for secure access
+- Backend: Node.js with Express
+- Database: MongoDB
+- Frontend: HTML, CSS, and JavaScript (with Axios for API calls)
+- Authentication: JWT for secure access
 
 
 Prerequisites
